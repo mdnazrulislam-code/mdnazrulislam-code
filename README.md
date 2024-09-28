@@ -1,4 +1,3 @@
-![MasterHead](https://www.inteliment.com/wp-content/uploads/2021/05/37-The-Techniques-Team-and-Tools-for-Effective-Data-Science.jpg)
 <h1 align="center">Hi 👋, I'm Md Nazrul Islam</h1>
 <h3 align="center">A Data Scientist with a passion for leveraging data to drive meaningful insights and solve complex Artificial Inteligence(AI) problems. Experienced in Machine Learning, Deep Learning, NLP expert Statistical Analysis, and Data Visualization. Committed to continuous learning and exploring innovative approaches to extract value from data.Kindly Check out my GitHub repositories for projects and collaborations in the world of data science!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"
