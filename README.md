@@ -1,77 +1,94 @@
-<h1 align="center">Hi 👋, I'm Md Nazrul Islam</h1>
-<h3 align="center">Azure Data Engineer | Power BI Developer | Data Analytics Engineer | AI & ML Engineer</h3>
-
-<p align="center">
-I design and build scalable, production-grade data platforms on Azure — transforming raw data into actionable insights and business value.
-</p>
 
 ---
 
-## 🚀 About Me
+### 🧰 Technologies Used
 
-- 🔥 Azure-focused **Data Engineer & Analytics Engineer** with real-world enterprise experience  
-- 📊 Specialized in **Power BI, Data Modeling, and Executive Dashboards**  
-- ⚙️ Strong in **ETL/ELT pipelines, Lakehouse Architecture, and Data Warehousing**  
-- 🤖 Building solutions in **Machine Learning, AI, NLP, and Generative AI**  
-- 💰 Currently exploring **FinOps & Cloud Cost Optimization**  
-- 🧠 Passionate about solving real business problems using data  
+- Azure Data Factory  
+- Azure Data Lake Gen2  
+- Databricks (PySpark, Delta Lake)  
+- Azure Synapse / Fabric  
+- Power BI (DAX, Data Modeling)  
 
 ---
 
-## 🧰 Tech Stack & Tools
+### 🚀 Key Features
 
-### ☁️ Azure Data Platform
-- Azure Data Factory (ADF)
+✔️ Incremental Data Load (Watermark / CDC)  
+✔️ Medallion Architecture (Bronze → Silver → Gold)  
+✔️ Data Quality Validation  
+✔️ Optimized Delta Tables (Partitioning + Z-Order)  
+✔️ Scalable Pipeline Orchestration  
+✔️ Secure Data Governance  
+
+---
+
+### 📊 Business Impact
+
+- ⚡ Reduced reporting time from hours → seconds  
+- 📉 Improved data accuracy & consistency  
+- 📊 Enabled executive-level KPI dashboards  
+- 🔄 Automated manual reporting workflows  
+
+---
+
+## 📊 Power BI Expertise
+
+I don’t just build dashboards — I build **decision systems**.
+
+### 🔥 Key Skills
+
+- Star Schema Modeling  
+- Advanced DAX (Time Intelligence, Forecasting)  
+- Performance Optimization  
+- Row-Level Security (RLS)  
+- Executive KPI Design  
+
+---
+
+## 🤖 AI & Machine Learning
+
+- Machine Learning Models (Regression, Classification)
+- NLP Systems (Text Processing, Sentiment Analysis)
+- Deep Learning (TensorFlow, PyTorch)
+- Computer Vision (OpenCV)
+
+---
+
+## 💰 FinOps (Current Learning)
+
+- Cloud Cost Optimization  
+- Resource Utilization Analysis  
+- Budget Governance Strategies  
+- Cost-aware Data Architecture  
+
+---
+
+## 🧰 Tech Stack
+
+### ☁️ Cloud & Data Engineering
+- Azure Data Factory
 - Azure Data Lake Gen2
-- Azure Synapse Analytics
-- Microsoft Fabric
-- Databricks (PySpark, Delta Lake)
-- Unity Catalog
+- Databricks
+- Azure Synapse / Fabric
 
-### 📊 Analytics & BI
-- Power BI (DAX, Data Modeling, Performance Optimization)
-- SQL (Advanced Querying, Optimization)
-- Excel (Advanced Analytics)
+### 📊 Analytics
+- Power BI
+- SQL
+- Excel
 
-### 🐍 Data & AI
+### 🐍 Programming
 - Python (Pandas, NumPy, Scikit-learn)
-- Machine Learning & Deep Learning
-- NLP (NLTK, Transformers)
-- TensorFlow & PyTorch
-- OpenCV (Computer Vision)
+- PySpark
 
-### ⚙️ Engineering & Architecture
-- ETL / ELT Pipelines
-- Medallion Architecture (Bronze-Silver-Gold)
-- Incremental Load & CDC
-- Data Governance & Security
-- CI/CD for Data Pipelines
+### 🤖 AI
+- TensorFlow
+- PyTorch
+- NLP (NLTK)
 
 ---
 
-## 🏗️ What I Build
+## 📂 Explore My Work
 
-✔️ End-to-End Azure Data Platforms  
-✔️ Scalable Lakehouse Architectures  
-✔️ Automated ETL/ELT Pipelines  
-✔️ Executive-Level Power BI Dashboards  
-✔️ AI & ML Data Products  
-✔️ Data Models for Business Decision Making  
-
----
-
-## 📈 Current Focus
-
-- 🔍 Advanced **Lakehouse Architecture & Data Engineering Patterns**
-- ⚡ **Performance Optimization (Power BI + Data Pipelines)**
-- 🤖 **Generative AI + Data Integration**
-- 💰 **Azure FinOps (Cost Optimization & Governance)**
-
----
-
-## 📂 Featured Projects
-
-🔗 Explore all my work here:  
 👉 https://github.com/mdnazrulislam-code  
 
 ---
@@ -79,29 +96,25 @@ I design and build scalable, production-grade data platforms on Azure — transf
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdnazrulislam-code&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdnazrulislam-code&show_icons=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnazrulislam-code" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnazrulislam-code&layout=compact" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
 
-- 📧 Email: arfanislamabir@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/nazrul-ds/
-- 🧑‍💻 GitHub: https://github.com/mdnazrulislam-code
+- 📧 Email: arfanislamabir@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/nazrul-ds/  
+- 🧑‍💻 GitHub: https://github.com/mdnazrulislam-code  
 
 ---
 
-## ⚡ Personal Motto
+## ⚡ Final Thought
 
-> "Turning data into decisions, and decisions into impact."
+> “Great data engineers don’t just move data — they design systems that scale decisions.”
 
 ---
