@@ -1,120 +1,86 @@
+<h1 align="center">Hi 👋, I'm Md Nazrul Islam</h1>
+
+<p align="center">
+Azure Data Engineer | Power BI Developer | Analytics Engineer | AI Engineer
+</p>
+
+<p align="center">
+I build scalable Azure data platforms, design high-performance analytics systems, and turn data into business decisions.
+</p>
 
 ---
 
-### 🧰 Technologies Used
+## ⚡ Tech Stack
 
-- Azure Data Factory  
-- Azure Data Lake Gen2  
-- Databricks (PySpark, Delta Lake)  
-- Azure Synapse / Fabric  
-- Power BI (DAX, Data Modeling)  
+<p align="center">
 
----
+<!-- Azure -->
+<img src="https://img.shields.io/badge/Azure-Data%20Platform-blue?style=for-the-badge&logo=microsoftazure"/>
 
-### 🚀 Key Features
+<!-- Databricks -->
+<img src="https://img.shields.io/badge/Databricks-PySpark-red?style=for-the-badge&logo=databricks"/>
 
-✔️ Incremental Data Load (Watermark / CDC)  
-✔️ Medallion Architecture (Bronze → Silver → Gold)  
-✔️ Data Quality Validation  
-✔️ Optimized Delta Tables (Partitioning + Z-Order)  
-✔️ Scalable Pipeline Orchestration  
-✔️ Secure Data Governance  
+<!-- Power BI -->
+<img src="https://img.shields.io/badge/Power%20BI-DAX-yellow?style=for-the-badge&logo=powerbi"/>
 
----
+<!-- Python -->
+<img src="https://img.shields.io/badge/Python-Data%20&%20AI-green?style=for-the-badge&logo=python"/>
 
-### 📊 Business Impact
+<!-- SQL -->
+<img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=postgresql"/>
 
-- ⚡ Reduced reporting time from hours → seconds  
-- 📉 Improved data accuracy & consistency  
-- 📊 Enabled executive-level KPI dashboards  
-- 🔄 Automated manual reporting workflows  
+</p>
 
 ---
 
-## 📊 Power BI Expertise
+## 🧠 What I Do
 
-I don’t just build dashboards — I build **decision systems**.
-
-### 🔥 Key Skills
-
-- Star Schema Modeling  
-- Advanced DAX (Time Intelligence, Forecasting)  
-- Performance Optimization  
-- Row-Level Security (RLS)  
-- Executive KPI Design  
+✔️ Build End-to-End Data Pipelines (ADF + Databricks)  
+✔️ Design Lakehouse Architecture (Bronze → Silver → Gold)  
+✔️ Create Executive Dashboards (Power BI)  
+✔️ Develop ML & AI Solutions  
+✔️ Optimize Data Systems for Performance & Cost  
 
 ---
 
-## 🤖 AI & Machine Learning
+## 📂 Featured Work
 
-- Machine Learning Models (Regression, Classification)
-- NLP Systems (Text Processing, Sentiment Analysis)
-- Deep Learning (TensorFlow, PyTorch)
-- Computer Vision (OpenCV)
-
----
-
-## 💰 FinOps (Current Learning)
-
-- Cloud Cost Optimization  
-- Resource Utilization Analysis  
-- Budget Governance Strategies  
-- Cost-aware Data Architecture  
-
----
-
-## 🧰 Tech Stack
-
-### ☁️ Cloud & Data Engineering
-- Azure Data Factory
-- Azure Data Lake Gen2
-- Databricks
-- Azure Synapse / Fabric
-
-### 📊 Analytics
-- Power BI
-- SQL
-- Excel
-
-### 🐍 Programming
-- Python (Pandas, NumPy, Scikit-learn)
-- PySpark
-
-### 🤖 AI
-- TensorFlow
-- PyTorch
-- NLP (NLTK)
-
----
-
-## 📂 Explore My Work
-
-👉 https://github.com/mdnazrulislam-code  
+👉 Explore my projects:  
+🔗 https://github.com/mdnazrulislam-code  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdnazrulislam-code&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdnazrulislam-code&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnazrulislam-code&layout=compact&hide_border=true" height="150"/>
 </p>
+
+---
+
+## 🚀 Currently Learning
+
+- Generative AI  
+- Advanced Data Engineering Patterns  
+- Azure FinOps  
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnazrulislam-code" />
+<a href="mailto:arfanislamabir@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/nazrul-ds/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 </p>
 
 ---
 
-## 🤝 Let's Connect
-
-- 📧 Email: arfanislamabir@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/nazrul-ds/  
-- 🧑‍💻 GitHub: https://github.com/mdnazrulislam-code  
-
----
-
-## ⚡ Final Thought
-
-> “Great data engineers don’t just move data — they design systems that scale decisions.”
-
----
+<p align="center">
+⚡ "Turning data into decisions."
+</p>
