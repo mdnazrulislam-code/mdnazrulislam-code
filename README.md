@@ -1,30 +1,107 @@
 <h1 align="center">Hi 👋, I'm Md Nazrul Islam</h1>
-<h3 align="center">A Data Scientist with a passion for leveraging data to drive meaningful insights and solve complex Artificial Inteligence(AI) problems. Experienced in Machine Learning, Deep Learning, NLP expert Statistical Analysis, and Data Visualization. Committed to continuous learning and exploring innovative approaches to extract value from data.Kindly Check out my GitHub repositories for projects and collaborations in the world of data science!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"
+<h3 align="center">Azure Data Engineer | Power BI Developer | Data Analytics Engineer | AI & ML Engineer</h3>
 
-
-I’m currently learning Image Processing, Object Detection,Natural Language Processing (NLP) and Generative AI.
-
-
-- All of my projects are available at [https://github.com/mdnazrulislam-code](https://github.com/mdnazrulislam-code)
-  
-- Ask me about **Machine Learning,Deep Learning, Finance,Economics,Statistics, etc**
-  
-- How to reach me :- **arfanislamabir@gmail.com**
-
-
-
-<p align="left">
+<p align="center">
+I design and build scalable, production-grade data platforms on Azure — transforming raw data into actionable insights and business value.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" alt="python" width="40" height="40"/><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="num" width="40" height="40"/><a href="https://pandas.pydata.org/about/citing.html" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--jnxn75Qd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/gujja45g5md39qhjih67.jpg" alt="numpy" width="40" height="40"/></a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="matplotlib" width="40" height="40"/><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.myintervals.com/blog/wp-content/uploads/2011/12/postgresql-logo1.png" alt="postgresql" width="40" height="40"/> <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://ronlynn.com/images/integrations/Power-BI-logo.jpg" alt="PowerBI" width="40" height="40"/><a href="https://public.tableau.com/app/discover" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.e4be58a717c466003e470667c13a62da?rik=So3nA9iCz9NaCQ&riu=http%3a%2f%2fwww.logotypes101.com%2flogos%2f690%2f47AA4204726B7CC1E59D8980C2F28DFD%2ftableau.png&ehk=%2fgr3AI1mplTKpToxeY5BElpgK4QUe%2fe5g7K3Z%2fxjrHk%3d&risl=&pid=ImgRaw&r=0" alt="tablue" width="40" height="40"/> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/><a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png" alt="NLTK" width="40" height="40"/><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>  </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnazrulislam-code&show_icons=true&locale=en&layout=compact" alt="mdnazrulislam-code" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnazrulislam-code&show_icons=true&locale=en" alt="mdnazrulislam-code" /></p>
+- 🔥 Azure-focused **Data Engineer & Analytics Engineer** with real-world enterprise experience  
+- 📊 Specialized in **Power BI, Data Modeling, and Executive Dashboards**  
+- ⚙️ Strong in **ETL/ELT pipelines, Lakehouse Architecture, and Data Warehousing**  
+- 🤖 Building solutions in **Machine Learning, AI, NLP, and Generative AI**  
+- 💰 Currently exploring **FinOps & Cloud Cost Optimization**  
+- 🧠 Passionate about solving real business problems using data  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnazrulislam-code&" alt="mdnazrulislam-code" /></p>
+---
 
+## 🧰 Tech Stack & Tools
 
+### ☁️ Azure Data Platform
+- Azure Data Factory (ADF)
+- Azure Data Lake Gen2
+- Azure Synapse Analytics
+- Microsoft Fabric
+- Databricks (PySpark, Delta Lake)
+- Unity Catalog
 
+### 📊 Analytics & BI
+- Power BI (DAX, Data Modeling, Performance Optimization)
+- SQL (Advanced Querying, Optimization)
+- Excel (Advanced Analytics)
+
+### 🐍 Data & AI
+- Python (Pandas, NumPy, Scikit-learn)
+- Machine Learning & Deep Learning
+- NLP (NLTK, Transformers)
+- TensorFlow & PyTorch
+- OpenCV (Computer Vision)
+
+### ⚙️ Engineering & Architecture
+- ETL / ELT Pipelines
+- Medallion Architecture (Bronze-Silver-Gold)
+- Incremental Load & CDC
+- Data Governance & Security
+- CI/CD for Data Pipelines
+
+---
+
+## 🏗️ What I Build
+
+✔️ End-to-End Azure Data Platforms  
+✔️ Scalable Lakehouse Architectures  
+✔️ Automated ETL/ELT Pipelines  
+✔️ Executive-Level Power BI Dashboards  
+✔️ AI & ML Data Products  
+✔️ Data Models for Business Decision Making  
+
+---
+
+## 📈 Current Focus
+
+- 🔍 Advanced **Lakehouse Architecture & Data Engineering Patterns**
+- ⚡ **Performance Optimization (Power BI + Data Pipelines)**
+- 🤖 **Generative AI + Data Integration**
+- 💰 **Azure FinOps (Cost Optimization & Governance)**
+
+---
+
+## 📂 Featured Projects
+
+🔗 Explore all my work here:  
+👉 https://github.com/mdnazrulislam-code  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdnazrulislam-code&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnazrulislam-code" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnazrulislam-code&layout=compact" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 📧 Email: arfanislamabir@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/nazrul-ds/
+- 🧑‍💻 GitHub: https://github.com/mdnazrulislam-code
+
+---
+
+## ⚡ Personal Motto
+
+> "Turning data into decisions, and decisions into impact."
+
+---
